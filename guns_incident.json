@@ -1,0 +1,20 @@
+{
+    "sno": "100798",
+    "year": "2019",
+    "Identification": [
+        {
+            "sex": "Male",
+            "age": "44",
+            "race": "Black",
+            "hispanic": "100",
+            "education": "High School",
+            "police_involvement": "0",
+            "Offence Details": {
+                "month": "10",
+                "date": "25-10-2019",
+                "reason": "Homicide",
+                "place_of_incident": "Other unspecified"
+            }
+        }
+    ]
+}
